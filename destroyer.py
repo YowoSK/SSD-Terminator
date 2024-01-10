@@ -9,16 +9,4 @@ def create_and_delete_file(filename, data, num_iterations):
         os.remove(filename)
 
 # usage
-create_and_delete_file('garbage.txt', 'garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data 
-garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data', 1000000)
+create_and_delete_file('garbage.txt', 'garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data garbage data', 1000000)
